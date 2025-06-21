@@ -1,6 +1,7 @@
 # ---------------------------
 # 📌 Install Required Packages
 # ---------------------------
+#change the !pip to pip if executing on a terminal
 !pip install -q sentence-transformers faiss-cpu transformers gtts deep-translator speechrecognition gradio
 
 # ---------------------------
