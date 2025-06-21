@@ -2,6 +2,11 @@
 
 An intelligent conversational AI application that provides answers to questions based on the Bhagavad Gita. This application combines semantic search, local language models, and text-to-speech capabilities to create an interactive experience with Krishna's wisdom.
 
+<img width="1334" alt="Screenshot 2025-06-21 at 09 54 36" src="https://github.com/user-attachments/assets/6baead3e-8862-486d-8194-c2dd6926328e" />
+
+<img width="1333" alt="Screenshot 2025-06-20 at 19 51 28" src="https://github.com/user-attachments/assets/841e3f8d-54bb-4418-9e36-4c3b9c14380a" />
+
+
 ## ✨ Features
 
 - **🤖 AI-Powered Responses**: Uses TinyLlama-1.1B-Chat model for generating contextual answers
