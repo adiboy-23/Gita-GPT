@@ -114,7 +114,7 @@ Gita-GPT/
 ├── app.py              # Main application file
 ├── requirements.txt    # Python dependencies
 ├── README.md          # This file
-└── Bhagwad_Gita.csv   # Dataset file (you need to add this)
+└── Bhagwad_Gita.csv   # Dataset file 
 ```
 
 ## 🐛 Troubleshooting
