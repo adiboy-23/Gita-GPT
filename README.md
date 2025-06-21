@@ -29,7 +29,7 @@ An intelligent conversational AI application that provides answers to questions 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/adiboy-23/Gita-GPT.git
    cd Gita-GPT
    ```
 
